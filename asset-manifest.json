@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactjs-travis/static/css/main.2cce8147.chunk.css",
+    "main.js": "/reactjs-travis/static/js/main.6fe7a364.chunk.js",
+    "main.js.map": "/reactjs-travis/static/js/main.6fe7a364.chunk.js.map",
+    "runtime~main.js": "/reactjs-travis/static/js/runtime~main.b3d43d7a.js",
+    "runtime~main.js.map": "/reactjs-travis/static/js/runtime~main.b3d43d7a.js.map",
+    "static/js/2.b41502e9.chunk.js": "/reactjs-travis/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/reactjs-travis/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/reactjs-travis/index.html",
+    "precache-manifest.64a6a0d6031c34b78c1c1809a1c40fe5.js": "/reactjs-travis/precache-manifest.64a6a0d6031c34b78c1c1809a1c40fe5.js",
+    "service-worker.js": "/reactjs-travis/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/reactjs-travis/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/reactjs-travis/static/media/logo.5d5d9eef.svg"
+  }
+}
