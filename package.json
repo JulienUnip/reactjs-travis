@@ -1,8 +1,8 @@
 {
-  "homepage" : "https://julienunip.github.io/reactjs-travis",
   "name": "reactjs-travis",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://julienunip.github.io/reactjs-travis",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
